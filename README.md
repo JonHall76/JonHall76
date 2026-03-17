@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Jon Hall
+📊 Data Analyst skilled in Excel, Tableau, Power BI, SQL, Python (Pandas), and Azure.
 
-<!--
-**JonHall76/JonHall76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills & Tools
+Excel
+🟩 PivotTables • Formulas • Pivot Charts • Functions • Data Cleanup
+Tableau
+📊 Dashboards • Visual Analytics
+Power BI
+🟡 Power Query • Reporting • Data Modeling
+MySQL
+🛢️ Queries • Joins • WHERE • GROUP BY • ORDER BY
+Python (Pandas)
+🐍 Data Cleaning • Aggregations • Transformations • Merging & Grouping
+Azure
+☁️ Data Services • Cloud Storage
 
-Here are some ideas to get you started:
+🚀 About Me
+I turn raw data into clear insights using modern analytics tools and clean, efficient workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
